@@ -15,20 +15,27 @@ Analysis of Brazil's largest e-commerce platform (Olist) to identify key seller 
 - Microsoft Excel (Power Query, Pivot Table, Pivot Chart)
 
 ## Key Findings
-- Top Tier sellers (25% of all sellers) generate 86% of total revenue
-- São Paulo dominates with BRL 875M — 6x second-ranked state
-- Revenue grew 8x from Jan 2017 to Nov 2017 peak
+- Top Tier sellers (25% of all sellers) generate 86.8% of total revenue
+- São Paulo dominates with BRL 8.51M — nearly 7x the second-ranked state (PR)
+- Revenue grew 7.5x from Jan 2017 to Aug 2018, peaking at BRL 987,765.37 in Nov 2017
 - Early seller cohorts (Jan–Mar 2017) show strongest long-term retention
 - Health & Beauty leads revenue despite ranking 2nd in order volume
 
 ## Dataset
 Olist E-Commerce Public Dataset (Kaggle) · Period: Jan 2017 – Aug 2018
 Tables used: sellers, orders, order_items, products, customers, order_payments
+Note: product category analysis excludes rows with null/blank category values.
 
 ## Folder Structure
 portfolio-2-olist/
-├── sql_queries/        → 5 .sql files
-├── sql_results/        → 5 CSV hasil query
+├── sql_queries/        → 6 .sql files
+├── sql_results/        → 6 CSV hasil query
 ├── excel/              → olist_seller_analysis.xlsx
 ├── report/             → Olist_Seller_Analysis.pdf
 └── README.md
+
+## About
+
+**Jessica Leo**
+Junior Data Analyst | Information Systems Student
+[LinkedIn](https://www.linkedin.com/in/jessicaleooo)
