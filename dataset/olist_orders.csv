@@ -1,4 +1,4 @@
-﻿order_id,customer_id,order_status,order_purchase_timestamp,order_approved_at,order_delivered_carrier_date,order_delivered_customer_date,order_estimated_delivery_date,order_purchase_timestamp (Month Index),order_purchase_timestamp (Month),order_purchase_timestamp (Year),order_purchase_timestamp (Quarter)
+order_id,customer_id,order_status,order_purchase_timestamp,order_approved_at,order_delivered_carrier_date,order_delivered_customer_date,order_estimated_delivery_date,order_purchase_timestamp (Month Index),order_purchase_timestamp (Month),order_purchase_timestamp (Year),order_purchase_timestamp (Quarter)
 82566a660a982b15fb86e904c8d32918,d3e3b74c766bc6214e0c830b17ee2341,delivered,07/06/2018 10.06,09/06/2018 03.13,11/06/2018 13.29,19/06/2018 12.05,18/07/2018,6,Jun,2018,Qtr2
 acce194856392f074dbf9dada14d8d82,7e20bf5ca92da68200643bda76c504c6,delivered,04/06/2018 00.00,05/06/2018 00.35,05/06/2018 13.24,16/06/2018 15.20,18/07/2018,6,Jun,2018,Qtr2
 fb6ba131bbeb30fd6db9c8900b5c5b92,af5b08db5f1a31a3b6856a8a6dc33167,delivered,30/05/2018 02.41,30/05/2018 03.24,30/05/2018 13.39,22/06/2018 22.41,18/07/2018,5,Mei,2018,Qtr2
