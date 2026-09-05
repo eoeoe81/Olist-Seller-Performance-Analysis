@@ -2,7 +2,7 @@
 SQL (CTE, Window Functions, Cohort Analysis) + Excel dashboard analyzing seller performance on Olist, Brazil's largest e-commerce platform. Includes revenue tier segmentation, monthly trend with LAG, and seller retention cohort heatmap.
 
 ## Overview
-Analysis of Brazil's largest e-commerce platform (Olist) to identify key seller success factors. **[View Full Presentation (PDF)](Report.pdf)**
+Analysis of Brazil's largest e-commerce platform (Olist) to identify key seller success factors. **[View Full Presentation (PDF)](Olist-Seller.pdf)**
 
 
 ## Business Questions
